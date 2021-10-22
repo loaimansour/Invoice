@@ -1,0 +1,10 @@
+C:\Users\loais\source\repos\invoice system\invoice system\bin\Debug\invoice system.exe.config
+C:\Users\loais\source\repos\invoice system\invoice system\bin\Debug\invoice system.exe
+C:\Users\loais\source\repos\invoice system\invoice system\bin\Debug\invoice system.pdb
+C:\Users\loais\source\repos\invoice system\invoice system\obj\Debug\invoice system.csproj.AssemblyReference.cache
+C:\Users\loais\source\repos\invoice system\invoice system\obj\Debug\invoice_system.Form1.resources
+C:\Users\loais\source\repos\invoice system\invoice system\obj\Debug\invoice_system.Properties.Resources.resources
+C:\Users\loais\source\repos\invoice system\invoice system\obj\Debug\invoice system.csproj.GenerateResource.cache
+C:\Users\loais\source\repos\invoice system\invoice system\obj\Debug\invoice system.csproj.CoreCompileInputs.cache
+C:\Users\loais\source\repos\invoice system\invoice system\obj\Debug\invoice system.exe
+C:\Users\loais\source\repos\invoice system\invoice system\obj\Debug\invoice system.pdb
